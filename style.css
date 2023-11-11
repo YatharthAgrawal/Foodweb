@@ -48,13 +48,10 @@ body{
     border:2px solid black;
 }
 
-.img{
-    width:5%;
-}
-
-.img img{
+.img .logo{
     width:100%;
     float:left;
+    text-shadow:5px 5px 20px black;
 }
 
 .content-header{
